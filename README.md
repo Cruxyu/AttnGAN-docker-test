@@ -1,5 +1,7 @@
 # AttnGAN using docker and streamlit
 
+![example](https://disk.yandex.ru/i/9w1QAOYZuLoOQg)
+
 ## EN
 
 python3.8 with translate module all inside docker container and streamlit lib.
