@@ -1,4 +1,4 @@
-# AttnGAN
+# AttnGAN using docker and streamlit
 
 ## EN
 
