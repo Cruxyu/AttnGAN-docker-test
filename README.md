@@ -1,6 +1,6 @@
 # AttnGAN using docker and streamlit
 
-![example](https://disk.yandex.ru/i/9w1QAOYZuLoOQg)
+![example](https://downloader.disk.yandex.ru/preview/fea3a1fb42366ace7f726b422644b94f4cca7096a031542ffde8e1a9e068f9c8/6095bf9f/w84pwgl-ht2Vw4ZyORpgVm7xfVVVI2_0t12E7gDhkzISYSnjjnWa-sXm6RNIkGG9Xs1KvrbfpF0X8wH1JJx23g%3D%3D?uid=0&filename=example.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 ## EN
 
