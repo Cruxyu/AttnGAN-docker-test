@@ -12,6 +12,7 @@ RUN pip install --no-deps easynmt \
 COPY . /usr/src/app
 
 EXPOSE 8501
+EXPOSE 8080
 
-ENTRYPOINT ["conda", "run", "--no-capture-output", "-n", "dipl", "streamlit","run", "main.py"]
+ENTRYPOINT ["conda", "run", "--no-capture-output", "-n", "dipl", "streamlit","run", "--server.address", "0.0.0.0", "--server.port","8080", "main.py"]
 
